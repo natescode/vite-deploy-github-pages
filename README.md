@@ -4,7 +4,15 @@ Quick and simple deployment method for vite projects to GH pages. Mostly for my 
 
 ## Create a Vite project
 
+Create a new folder and go into it
+
+`mkdir myProject && cd ./myProject`
+
+Create the vite project in that folder
+
 `npm create vite@latest`
+
+Be sure to name the project `.` because the . means the current directory. Type `y` if asked to wipe out the curret folder changes.
 
 ## Update vite.config
 
@@ -46,7 +54,6 @@ the `&&` just adds all the commands into one line to do them together.
 ## Update Github pages settings
 
 Select your `main` or `master` branch and be sure to select `docs` **NOT** `root`.
-
 
 ![Github pages settings image](images/ghpages_settings1.png)
 
