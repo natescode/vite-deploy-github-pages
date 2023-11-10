@@ -47,7 +47,7 @@ the `&&` just adds all the commands into one line to do them together.
 
 Select your `main` or `master` branch and be sure to select `docs` **NOT** `root`.
 
-![Github pages settings image]("./images/ghpages_settings1.png")
+![Github pages settings image]("images/ghpages_settings1.png")
 
 ## Updating changes
 
